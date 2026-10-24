@@ -36,9 +36,9 @@ The chatbot's assessment is advisory and should not be treated as a guarantee th
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, and Vite (as configured in the project)
-- **Backend:** Node.js and TypeScript/Express (if included in the project)
-- **AI Integration:** Google Gemini API (if enabled in the project)
+- **Frontend:** HTML, CSS, JavaScript, Typescript and Vite (as configured in the project)
+- **Backend:** Node.js and TypeScript/Express
+- **AI Integration:** Google Gemini API 
 - **Development Environment:** Visual Studio Code
 - **Version Control:** Git and GitHub
 
@@ -59,12 +59,6 @@ The chatbot's assessment is advisory and should not be treated as a guarantee th
 - Do not click suspicious payment links.
 - Contact your bank through its official channels if you suspect fraud.
 - Never publish API keys, passwords, or private credentials in a public repository.
-
-## 🌐 Deployment
-
-The frontend may be deployed using a static hosting service such as GitHub Pages, provided it is configured for static deployment.
-
-If the application requires a Node.js/Express backend or Gemini API calls through `server.ts`, that backend must be hosted separately on a compatible service. GitHub Pages cannot run the backend directly.
 
 ## ⚠️ Disclaimer
 
